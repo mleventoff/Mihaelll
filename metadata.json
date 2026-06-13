@@ -1,0 +1,6 @@
+{
+  "name": "Cigarette Tracker",
+  "description": "Удобный и красивый трекер выкуренных сигарет с аналитикой, лимитами и финансовым учетом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
